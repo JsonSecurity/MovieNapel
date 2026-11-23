@@ -4,8 +4,8 @@
     "title": "Virus",
     "url": "https://ok.ru/videoembed/10519716825648",
     "createdAt": "2026-11-23",
-    "poster": null,
-    "tag": null
+    "poster": "https://peliculas.lavanguardia.com/imagenes/w342/oBnc4NLaxZ8V94srsfgdyyDjts4.jpg",
+    "tag": "ok.ru"
   },
   {
     "id": "1",
@@ -13,7 +13,7 @@
     "url": "https://ok.ru/videoembed/10198609889854",
     "createdAt": "2026-11-23",
     "poster": "https://xl.movieposterdb.com/08_05/2000/216651/xl_216651_ebb0af43.jpg?v=2",
-    "tag": "OK.ru"
+    "tag": "ok.ru"
   },
   {
     "id": "2",
